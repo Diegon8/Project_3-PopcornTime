@@ -128,6 +128,6 @@ dmypy.json
 # Pyre type checker
 .pyre/
 
-/_trash_
-/.env
+_trash_
+.env
 

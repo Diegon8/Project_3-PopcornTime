@@ -16,3 +16,16 @@ def create_table(i,x, y):
     x['profit_ratio']= round(i.groupby(y).agg({"profit_ratio":"mean"}),2)
     x['n_movies']=i.groupby(y).agg({'title':'count'})
     return x
+
+#Calling Image movie API
+
+def requestIMG(code,token = os.getenv('apikey')):
+    url = "https://movies-tvshows-data-imdb.p.rapidapi.com/"
+    querystring = {"imdb":code,"type":"get-movies-images-by-imdb"}
+    headers = {
+         'x-rapidapi-host': "movies-tvshows-data-imdb.p.rapidapi.com",
+         'x-rapidapi-key': token
+          }
+    response = requests.request("GET", url, headers=headers, params=querystring).json()
+    imglink =response['poster']
+    display(Image(imglink))
