@@ -1,3 +1,8 @@
+import os
+from dotenv import load_dotenv
+from IPython.display import Image
+
+
 #Remove NaN in column x=dataframe y=column
 def removeNaN(x, y):
     return x[y.notna()].reset_index(drop=True)
@@ -29,3 +34,15 @@ def requestIMG(code,token = os.getenv('apikey')):
     response = requests.request("GET", url, headers=headers, params=querystring).json()
     imglink =response['poster']
     display(Image(imglink))
+
+#function to call movie api for fanarts
+def requestART(code,token = os.getenv('apikey')):
+    url = "https://movies-tvshows-data-imdb.p.rapidapi.com/"
+    querystring = {"imdb":code,"type":"get-movies-images-by-imdb"}
+    headers = {
+         'x-rapidapi-host': "movies-tvshows-data-imdb.p.rapidapi.com",
+         'x-rapidapi-key': token
+          }
+    response = requests.request("GET", url, headers=headers, params=querystring).json()
+    imglink =response['fanart']
+    display(Image(imglink,width = 300, height =150 ))

@@ -130,4 +130,5 @@ dmypy.json
 
 _trash_
 .env
+__pycache__
 

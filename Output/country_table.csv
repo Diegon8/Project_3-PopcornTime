@@ -1,0 +1,799 @@
+country,budget,budget,worlwide_gross_income,worlwide_gross_income,profit,profit,profit_ratio,n_movies
+,max,mean,max,mean,max,mean,,
+USA,356,30,2798,93,2553,63,7.76,3652
+"UK, USA",250,38,1109,124,909,86,2.8,194
+"USA, UK",250,51,1342,159,1217,108,2.38,149
+"USA, Canada",200,30,995,81,940,52,2.58,139
+"USA, Germany",150,44,546,97,433,53,1.08,109
+UK,195,12,246,24,241,13,2.96,103
+"Germany, USA",140,38,321,73,251,35,0.87,66
+"Canada, USA",110,23,463,59,384,37,4.98,61
+"USA, France",98,23,543,68,474,46,2.3,41
+"France, USA",90,25,376,64,331,39,2.09,41
+"USA, Australia",176,71,1148,209,988,138,2.08,37
+"USA, Japan",160,43,525,128,391,85,4.54,35
+"USA, Mexico",85,26,300,73,256,46,1.69,35
+France,93,22,264,31,171,9,-0.04,30
+Canada,125,12,65,6,25,-6,-0.68,30
+"UK, France, USA",60,27,282,63,257,36,1.27,29
+Japan,34,12,348,69,329,57,2.83,25
+"Australia, USA",135,31,354,75,249,44,1.5,20
+"USA, India",175,59,583,146,408,87,1.69,19
+"USA, China",185,60,567,184,400,124,2.62,19
+Australia,90,11,328,47,319,36,7.04,18
+"China, Hong Kong",94,34,177,55,146,20,0.76,17
+South Korea,32,7,75,29,66,22,3.72,16
+"UK, France",34,13,210,37,176,24,2.49,16
+"UK, Germany, USA",62,29,92,25,54,-4,-0.2,14
+"China, USA",145,58,856,177,756,119,1.33,14
+"USA, UK, France",50,20,164,54,127,35,2.12,14
+"USA, United Arab Emirates",225,50,624,110,399,60,0.83,13
+China,63,32,870,248,840,216,6.62,13
+Mexico,12,3,99,18,94,15,4.97,12
+"USA, Germany, Canada",70,35,307,82,262,47,0.82,12
+"Hong Kong, USA",125,45,347,100,257,55,0.89,12
+"Japan, USA",75,20,634,97,559,77,4.38,12
+"USA, UK, Canada",200,75,746,274,546,200,1.6,11
+"USA, Spain",111,29,296,57,185,28,1.47,11
+"Mexico, USA",20,7,87,20,77,14,30.48,10
+"USA, Hong Kong",55,29,446,153,416,124,5.35,10
+"UK, Canada, USA",180,45,357,89,177,44,1.48,9
+Spain,18,6,40,13,35,7,1.96,9
+"USA, UK, Germany",92,47,610,156,558,109,2.04,9
+"Italy, USA",45,16,30,6,27,-10,0.24,9
+"USA, Italy",150,46,486,104,336,58,0.43,8
+Hong Kong,15,9,32,14,25,6,1.02,8
+Russia,30,9,68,24,46,15,2.51,8
+"UK, Canada",35,18,49,13,34,-4,-0.06,8
+"UK, USA, France",150,44,245,125,205,81,2.81,7
+"UK, Germany",15,9,48,10,42,1,0.48,7
+"USA, Germany, UK",200,88,524,220,434,132,1.39,7
+"Canada, France",60,16,21,8,8,-8,-0.23,7
+"USA, Russia",69,28,136,60,76,32,11.34,7
+"USA, New Zealand",225,82,958,219,733,137,1.44,7
+"New Zealand, USA",250,124,1120,820,1026,697,5.94,6
+"France, Canada, USA",70,22,130,44,60,22,0.86,6
+"USA, Czech Republic",175,65,302,112,127,48,1.09,6
+India,15,8,18,6,8,-2,-0.2,6
+"USA, Hungary",100,50,245,136,147,86,4.01,6
+"Hong Kong, China",39,20,105,47,85,28,1.54,6
+"South Korea, USA",50,17,50,13,43,-4,1.11,5
+"USA, Morocco",100,28,108,25,10,-2,-0.24,5
+"UK, France, Germany, USA",80,38,230,99,205,61,1.84,5
+"UK, China, USA",100,57,178,98,110,41,0.86,5
+"USA, UK, Australia",150,88,493,231,368,143,2.1,5
+"Germany, Canada, USA",68,33,114,31,46,-3,-0.26,5
+"USA, Switzerland",90,38,85,45,65,7,0.99,5
+"France, Belgium",34,18,51,17,28,-1,0.88,5
+"USA, Canada, Germany",35,16,24,12,15,-4,-0.09,5
+"Ireland, UK, USA",17,13,96,31,81,18,1.29,5
+"USA, Canada, UK",300,85,658,207,358,122,13.48,5
+"Canada, UK",25,14,4,2,-5,-12,-0.81,5
+Italy,35,14,230,52,210,38,1.75,5
+"Russia, USA",8,5,75,17,75,12,16.44,5
+Ireland,25,9,21,9,21,1,27.34,5
+"Spain, USA",150,80,302,146,153,66,1.79,5
+"France, Italy",13,5,36,14,35,9,5.75,5
+"UK, Australia, USA",130,47,211,106,128,59,3.17,4
+"Denmark, Sweden",6,3,17,11,15,8,4.94,4
+South Africa,20,8,27,7,7,-1,-0.56,4
+"UK, India",22,11,378,108,363,97,5.92,4
+"China, Canada, USA",85,48,346,111,261,64,0.75,4
+"France, UK",70,33,72,26,11,-7,-0.18,4
+"France, Canada",33,22,106,29,76,7,-0.03,4
+"USA, Ireland",50,26,85,40,72,14,1.52,4
+"United Arab Emirates, USA",60,26,135,47,75,21,0.31,4
+"Argentina, Spain",22,7,43,24,41,17,6.86,4
+"USA, West Germany",11,5,20,9,9,4,7.0,4
+"France, UK, USA",28,11,120,40,92,28,2.48,4
+Germany,10,5,77,22,75,17,8.96,4
+"Germany, UK, USA",33,18,21,8,-8,-10,-0.68,4
+"USA, South Africa",105,33,270,109,165,75,6.89,4
+"USA, Netherlands",18,10,16,9,8,0,0.08,4
+"USA, Israel",25,15,49,21,24,6,0.06,4
+"USA, Germany, Japan",85,46,158,50,73,4,-0.22,4
+"USA, Germany, Australia",85,54,145,66,60,12,0.49,4
+"USA, France, UK",45,20,160,45,115,25,0.22,4
+"USA, China, Hong Kong",210,99,1104,485,894,386,1.96,4
+"USA, France, Japan",80,68,971,584,895,516,6.83,4
+New Zealand,3,2,6,3,5,1,0.83,3
+"Ireland, UK",13,6,66,24,53,18,1.35,3
+"France, Germany, USA",50,23,119,40,69,17,-0.13,3
+"France, USA, UK",50,48,353,142,304,94,1.93,3
+Israel,2,1,1,0,0,-1,-0.68,3
+"Italy, Spain, West Germany",1,1,25,18,24,18,38.54,3
+"UK, France, Canada",30,24,62,26,32,2,-0.09,3
+"France, Germany",20,11,174,60,164,49,5.71,3
+"UK, Australia",70,32,56,22,-2,-9,-0.4,3
+"UK, Germany, Canada, USA",100,56,72,47,12,-9,-0.21,3
+"USA, Greece",18,7,11,6,8,-1,0.37,3
+"USA, Cambodia",40,29,118,76,80,47,1.67,3
+"USA, Bulgaria",80,44,274,99,194,54,0.45,3
+"Canada, USA, UK",210,84,459,260,280,175,2.4,3
+"USA, France, Canada",84,38,148,68,64,30,0.84,3
+"UK, USA, Japan",75,35,395,158,320,123,2.59,3
+"USA, Germany, Canada, UK",60,56,95,69,35,13,0.21,3
+"USA, Germany, France",50,50,73,43,23,-7,-0.14,3
+"UK, USA, Germany",100,52,879,313,779,262,2.94,3
+"UK, USA, Canada",40,26,195,130,158,103,2.43,3
+"France, UK, Czech Republic",60,32,86,44,61,12,0.44,3
+"USA, China, Canada",217,132,605,332,388,201,1.4,3
+"USA, UK, Italy",87,59,352,166,265,107,2.1,3
+"USA, Sweden",30,15,27,17,5,1,0.31,3
+"USA, UK, Ireland",120,83,217,168,147,84,1.06,3
+"USA, Hong Kong, UK",30,29,56,49,26,20,0.68,2
+"Ireland, USA",23,18,33,18,10,0,-0.2,2
+"USA, UK, Japan",76,43,70,43,5,0,0.22,2
+"USA, China, Japan",125,90,409,395,327,305,4.11,2
+"Italy, France",13,9,13,9,8,0,0.48,2
+"USA, Denmark, Australia",70,65,468,296,408,231,3.78,2
+"France, USA, Mexico",25,20,135,72,110,52,2.0,2
+"Israel, USA",4,3,1,1,-1,-2,-0.77,2
+"USA, UK, France, Germany, Japan",60,34,159,89,99,55,1.52,2
+"USA, Germany, Belgium",60,32,167,84,107,52,0.43,2
+"Indonesia, USA",15,10,7,3,2,-6,-0.26,2
+"USA, Thailand",80,41,587,293,507,253,2.68,2
+"Ireland, UK, Germany",32,20,30,15,-2,-5,-0.52,2
+"USA, Poland",12,6,35,18,23,12,0.5,2
+"USA, Germany, Hungary",85,48,160,83,75,35,0.22,2
+"USA, Canada, India",47,44,203,167,156,123,2.73,2
+"USA, Luxembourg",30,20,12,9,-3,-11,-0.44,2
+"USA, India, Canada",26,23,51,51,31,28,1.25,2
+Iran,0,0,1,0,1,0,109.65,2
+"USA, Germany, Netherlands",51,30,116,67,65,37,1.2,2
+"Mexico, France",3,2,3,2,0,0,-0.38,2
+"USA, Canada, France",16,15,12,6,-2,-9,-0.57,2
+"UK, Spain, USA",140,92,268,158,128,66,0.51,2
+"UK, Germany, China, USA",22,19,5,4,-12,-14,-0.76,2
+"UK, Germany, France, USA",33,32,131,117,101,85,2.74,2
+"UK, Germany, Japan, USA",82,52,47,27,-13,-24,-0.53,2
+"UK, Hungary",90,46,16,8,-1,-37,-0.82,2
+"UK, Ireland",16,9,37,19,21,9,0.14,2
+"UK, Ireland, France, USA",8,6,55,30,52,25,8.56,2
+"UK, Japan, USA",22,18,124,94,109,75,4.57,2
+"Turkey, USA",40,20,1,1,0,-20,-0.66,2
+"Switzerland, UK, USA",44,29,58,32,14,3,-0.14,2
+"UK, Luxembourg",20,16,30,18,18,2,0.42,2
+"UK, South Africa",4,4,10,5,7,1,0.65,2
+"UK, Spain",15,10,64,32,49,23,1.16,2
+"South Korea, Japan",7,4,12,8,5,4,1.34,2
+"USA, Canada, Australia",94,57,115,85,95,28,2.17,2
+"South Africa, USA",49,26,102,51,53,25,0.05,2
+"UK, USA, France, Germany",30,20,131,68,101,48,1.44,2
+"UK, USA, India",14,10,25,13,18,2,0.78,2
+"UK, USA, Isle Of Man",30,15,35,27,18,12,54.58,2
+Puerto Rico,15,8,0,0,-1,-8,-1.0,2
+"Norway, USA",6,4,1,0,-1,-3,-0.92,2
+Norway,22,11,4,3,1,-8,0.44,2
+"Nigeria, USA",8,4,0,0,-1,-4,-0.9,2
+"UK, USA, Luxembourg",25,16,16,13,3,-3,0.01,2
+"USA, Australia, China",140,72,151,105,54,32,5.44,2
+"Mexico, Spain",19,12,83,45,64,33,1.92,2
+"UK, France, Germany",50,36,36,23,-14,-14,-0.43,2
+"UK, USA, Australia",20,18,414,240,399,222,14.43,2
+"West Germany, USA",12,12,15,14,4,2,0.21,2
+"Australia, Canada",20,11,10,5,8,-6,1.58,2
+"France, Japan, USA",75,38,512,257,437,218,2.9,2
+"China, France",38,20,126,63,88,43,0.68,2
+"Canada, Germany, USA",100,60,118,65,18,5,-0.1,2
+"Canada, France, USA",30,25,52,40,32,15,0.76,2
+"Finland, USA",73,69,352,249,279,180,2.54,2
+"Australia, France",16,12,15,9,6,-4,-0.09,2
+"Canada, South Korea, USA",42,21,121,61,79,39,1.69,2
+"Denmark, France",7,5,3,2,-3,-3,-0.74,2
+"Belgium, USA",25,20,47,28,22,9,0.3,2
+"France, Spain, USA",38,21,58,30,20,9,-0.07,2
+"France, Switzerland",35,19,17,10,-1,-9,-0.36,2
+"USA, Czech Republic, Thailand",45,45,42,42,-3,-3,-0.06,1
+"USA, Czech Republic, Romania",160,160,300,300,140,140,0.88,1
+"USA, Czech Republic, Italy, Iceland, Slovakia",10,10,36,36,25,25,2.49,1
+"USA, China, UK, Afghanistan",20,20,75,75,55,55,2.73,1
+"USA, Czech Republic, Canada",45,45,34,34,-11,-11,-0.24,1
+"Canada, Italy, USA, UK, Austria",18,18,10,10,-8,-8,-0.44,1
+"USA, Czech Republic, UK",88,88,105,105,17,17,0.2,1
+"USA, Denmark",80,80,312,312,232,232,2.9,1
+"Canada, India, USA, Japan, Thailand",18,18,13,13,-5,-5,-0.29,1
+"USA, Croatia, Bosnia and Herzegovina",25,25,8,8,-17,-17,-0.69,1
+"USA, East Germany, West Germany",3,3,1,1,-2,-2,-0.82,1
+"USA, Finland",3,3,3,3,0,0,0.0,1
+"USA, Colombia, Spain, United Arab Emirates",10,10,1,1,-9,-9,-0.86,1
+"USA, China, United Arab Emirates, Canada",185,185,343,343,158,158,0.86,1
+"France, UK, Belgium",36,36,0,0,-36,-36,-0.99,1
+"USA, China, UK",68,68,212,212,144,144,2.11,1
+"USA, China, Taiwan",15,15,67,67,52,52,3.47,1
+"USA, Canada, Mexico",12,12,56,56,44,44,3.69,1
+"USA, Canada, Mexico, Spain, Italy",85,85,222,222,137,137,1.61,1
+"USA, Canada, New Zealand",150,150,491,491,341,341,2.27,1
+"USA, Canada, Singapore, Hong Kong",40,40,158,158,118,118,2.95,1
+"Canada, UK, France",10,10,6,6,-4,-4,-0.42,1
+"USA, Canada, UK, France, Hungary, Belgium",3,3,0,0,-3,-3,-0.92,1
+"USA, Chile",2,2,0,0,-2,-2,-0.85,1
+"USA, Chile, Israel",2,2,6,6,3,3,1.23,1
+"Canada, UK, Australia",35,35,18,18,-17,-17,-0.5,1
+"Canada, Spain",15,15,146,146,131,131,8.76,1
+"USA, China, France, Norway, UK",178,178,791,791,613,613,3.44,1
+"USA, China, Hong Kong, Australia, Canada",150,150,335,335,185,185,1.23,1
+"USA, China, Hong Kong, Austria",150,150,683,683,533,533,3.55,1
+"USA, China, India, Nepal, Hong Kong, United Arab Emirates, Iceland",65,65,254,254,189,189,2.91,1
+"USA, China, Japan, Canada, United Arab Emirates",190,190,1515,1515,1325,1325,6.97,1
+"Canada, Luxembourg",10,10,3,3,-7,-7,-0.71,1
+"USA, France, Canada, Belgium",105,105,348,348,243,243,2.31,1
+"USA, France, Bulgaria, Germany",90,90,215,215,125,125,1.39,1
+"Canada, Germany",3,3,0,0,-3,-3,-1.0,1
+"USA, Germany, Brazil, Italy",62,62,52,52,-10,-10,-0.16,1
+"Canada, France, Portugal, Italy",20,20,6,6,-14,-14,-0.7,1
+"USA, Germany, Canada, France",3,3,0,0,-3,-3,-0.95,1
+"Canada, France, Japan, USA",50,50,98,98,48,48,0.95,1
+"USA, Germany, China, Canada",145,145,403,403,258,258,1.78,1
+"USA, Germany, China, Italy",150,150,398,398,248,248,1.65,1
+"USA, Germany, Czech Republic",60,60,214,214,154,154,2.57,1
+"USA, Germany, Czech Republic, Slovakia, Iceland",5,5,81,81,76,76,15.79,1
+"USA, Germany, Czech Republic, UK",78,78,179,179,101,101,1.3,1
+"Canada, France, Italy, UK, Japan",20,20,8,8,-12,-12,-0.6,1
+"USA, Germany, France, Canada, South Africa, Australia, UK, Japan",40,40,312,312,272,272,6.81,1
+"USA, Germany, France, Spain",110,110,443,443,333,333,3.03,1
+"USA, Germany, France, UK",75,75,132,132,57,57,0.76,1
+"Canada, China, USA, France",25,25,5,5,-20,-20,-0.79,1
+"USA, Germany, Ireland, UK",110,110,72,72,-38,-38,-0.34,1
+"Canada, France, UK",27,27,1,1,-26,-26,-0.96,1
+"USA, France, UK, Japan",7,7,55,55,48,48,6.81,1
+"Canada, Germany, South Africa, UK",15,15,0,0,-15,-15,-0.98,1
+"USA, France, UK, Italy",60,60,176,176,116,116,1.93,1
+"USA, Canada, Japan",6,6,6,6,0,0,0.06,1
+"USA, France, Canada, Spain",40,40,142,142,102,102,2.54,1
+"USA, France, Chile, China, Germany, UK",9,9,24,24,15,15,1.7,1
+"USA, France, China, UK",35,35,212,212,177,177,5.06,1
+"USA, France, Czechoslovakia, Italy",18,18,52,52,34,34,1.89,1
+"USA, France, Israel, Cambodia",3,3,0,0,-3,-3,-0.94,1
+"USA, France, Italy, UK",100,100,278,278,178,178,1.78,1
+"Canada, Germany, France, USA",15,15,1,1,-14,-14,-0.91,1
+"USA, France, Mexico",20,20,154,154,134,134,6.68,1
+"USA, France, Romania",15,15,70,70,55,55,3.64,1
+"USA, France, Serbia",28,28,53,53,25,25,0.88,1
+"USA, France, South Africa",25,25,0,0,-25,-25,-1.0,1
+"Canada, Germany, France",30,30,25,25,-5,-5,-0.16,1
+"USA, France, UK, Austria, Germany, Italy",15,15,8,8,-7,-7,-0.47,1
+"USA, France, UK, Hong Kong, Taiwan, Malta",125,125,241,241,116,116,0.93,1
+"USA, Canada, Japan, France",26,26,102,102,76,76,2.93,1
+"Canada, UK, USA, Germany",5,5,0,0,-5,-5,-0.97,1
+"Canada, UK, Japan",16,16,3,3,-13,-13,-0.83,1
+"UK, USA, France, Sweden",22,22,15,15,-7,-7,-0.3,1
+"UK, Sweden, Norway",6,6,0,0,-6,-6,-0.99,1
+"UK, Switzerland, USA, Germany",25,25,0,0,-25,-25,-0.99,1
+"China, Haiti, Hong Kong",15,15,12,12,-3,-3,-0.19,1
+"China, Germany, USA, Austria, Italy, Canada",105,105,134,134,29,29,0.27,1
+"China, France, Hong Kong, USA",10,10,22,22,12,12,1.2,1
+"UK, USA, China, Sweden, Japan",35,35,43,43,8,8,0.23,1
+"China, Canada, Japan, USA",160,160,439,439,279,279,1.74,1
+"Chile, Spain, UK, France",2,2,3,3,2,2,1.13,1
+"Canada, UK, USA",10,10,113,113,103,103,10.3,1
+"UK, USA, Germany, Denmark, Belgium, Japan",15,15,64,64,49,49,3.28,1
+"UK, USA, Germany, Italy, France",1,1,1,1,0,0,0.29,1
+"UK, USA, Hungary",108,108,630,630,522,522,4.83,1
+"UK, USA, Iceland",55,55,203,203,148,148,2.7,1
+"Chile, Mexico",0,0,2,2,1,1,2.93,1
+"UK, USA, India, Canada, France, Belgium",59,59,90,90,31,31,0.53,1
+"UK, USA, Ireland, Switzerland",35,35,75,75,40,40,1.15,1
+"UK, Sweden, Canada, USA",13,13,4,4,-9,-9,-0.69,1
+"China, Hong Kong, USA",32,32,137,137,105,105,3.27,1
+"UK, Spain, Germany, USA",130,130,119,119,-11,-11,-0.08,1
+"UK, Spain, Germany",5,5,12,12,7,7,1.23,1
+"UK, New Zealand, USA, India",20,20,26,26,6,6,0.3,1
+"UK, Norway, Canada, USA, France, Germany",60,60,76,76,16,16,0.27,1
+"UK, Norway, Denmark, Germany, Sweden",17,17,23,23,6,6,0.38,1
+"UK, Puerto Rico, USA",10,10,1,1,-9,-9,-0.94,1
+"UK, Romania, France, USA",8,8,1,1,-8,-8,-0.9,1
+"UK, Russia, China, Japan",26,26,151,151,125,125,4.82,1
+"UK, Russia, Italy, France, Netherlands",4,4,5,5,1,1,0.34,1
+"China, Japan",25,25,97,97,72,72,2.88,1
+"UK, South Africa, France",35,35,27,27,-8,-8,-0.22,1
+"UK, South Africa, Italy",18,18,34,34,16,16,0.94,1
+"UK, South Africa, USA, India",50,50,36,36,-14,-14,-0.29,1
+"UK, South Korea",40,40,2,2,-38,-38,-0.96,1
+"China, India, Hong Kong, USA",16,16,72,72,56,56,3.48,1
+"UK, Spain, Belgium",25,25,0,0,-25,-25,-0.99,1
+"UK, Spain, France",24,24,2,2,-22,-22,-0.92,1
+"Chile, France",3,3,1,1,-2,-2,-0.81,1
+"UK, USA, Italy",10,10,11,11,1,1,0.09,1
+"Chile, Colombia, Spain",26,26,25,25,-1,-1,-0.04,1
+"USA, Australia, Hong Kong, Switzerland, China",25,25,30,30,4,4,0.18,1
+"USA, Australia, Spain",100,100,94,94,-6,-6,-0.06,1
+"USA, Australia, Switzerland, Canada",50,50,100,100,50,50,1.0,1
+"USA, Australia, UK",150,150,246,246,96,96,0.64,1
+"USA, Austria, Switzerland",2,2,6,6,3,3,1.39,1
+"USA, Belgium, Canada",110,110,564,564,454,454,4.12,1
+"USA, Brazil",90,90,484,484,394,394,4.38,1
+"USA, Brazil, Japan",125,125,626,626,501,501,4.01,1
+"Canada, USA, Mexico",12,12,4,4,-9,-9,-0.69,1
+"Canada, USA, Japan",27,27,102,102,75,75,2.76,1
+"Canada, USA, Hungary, UK",18,18,14,14,-4,-4,-0.2,1
+"Canada, USA, Germany",8,8,1,1,-7,-7,-0.89,1
+"USA, Canada, Bulgaria",65,65,456,456,391,391,6.02,1
+"USA, Canada, China",10,10,74,74,64,64,6.41,1
+"Canada, Brazil, Japan",25,25,20,20,-5,-5,-0.21,1
+"USA, Canada, France, UK, India",38,38,125,125,87,87,2.3,1
+"USA, Australia, Mexico",25,25,37,37,12,12,0.48,1
+"USA, Australia, Germany",120,120,94,94,-26,-26,-0.22,1
+"UK, USA, Japan, Germany",40,40,34,34,-6,-6,-0.15,1
+"Canada, USA, Spain, South Korea",15,15,5,5,-10,-10,-0.7,1
+"Canada, United Arab Emirates, USA",22,22,13,13,-9,-9,-0.41,1
+"UK, USA, Mexico",12,12,17,17,5,5,0.43,1
+"UK, USA, New Zealand",25,25,9,9,-16,-16,-0.66,1
+"UK, USA, Qatar",11,11,54,54,43,43,3.9,1
+"UK, USA, South Africa, Germany",30,30,22,22,-8,-8,-0.26,1
+"UK, USA, United Arab Emirates",10,10,137,137,127,127,12.68,1
+"UK, USA, West Germany",36,36,55,55,19,19,0.54,1
+"UK, United Arab Emirates, Romania, Morocco",4,4,0,0,-4,-4,-0.89,1
+"UK, West Germany",47,47,8,8,-39,-39,-0.83,1
+"Canada, USA, UK, Australia",11,11,68,68,57,57,5.2,1
+"USA, Argentina",50,50,159,159,109,109,2.17,1
+"USA, Argentina, Jordan",4,4,0,0,-3,-3,-0.93,1
+"USA, Argentina, Mexico",20,20,6,6,-14,-14,-0.72,1
+"USA, Argentina, Spain, Italy",5,5,3,3,-2,-2,-0.43,1
+"Canada, USA, Switzerland",43,43,57,57,14,14,0.32,1
+"USA, Germany, Ireland, UK, Netherlands",10,10,4,4,-6,-6,-0.59,1
+"USA, Germany, Paraguay, Uruguay",135,135,164,164,29,29,0.21,1
+"USA, Germany, Japan, UK, Hong Kong",95,95,157,157,62,62,0.65,1
+"USA, UK, Bulgaria, Canada",50,50,45,45,-5,-5,-0.11,1
+"Australia, UK",2,2,5,5,3,3,1.52,1
+"USA, Taiwan, UK, Canada",120,120,609,609,489,489,4.08,1
+"Australia, South Africa",10,10,1,1,-9,-9,-0.94,1
+"Australia, Germany, USA",4,4,1,1,-3,-3,-0.71,1
+"USA, UK, Australia, Canada",170,170,353,353,183,183,1.08,1
+"USA, UK, Belgium, Canada",110,110,296,296,186,186,1.7,1
+"USA, UK, Bulgaria",32,32,39,39,7,7,0.23,1
+"Australia, China, Germany, USA",40,40,8,8,-32,-32,-0.81,1
+"Australia, Bhutan, UK",2,2,1,1,-1,-1,-0.61,1
+"USA, UK, Canada, China",95,95,114,114,19,19,0.2,1
+"USA, UK, Canada, Japan",60,60,48,48,-12,-12,-0.21,1
+"USA, UK, Canada, Switzerland",55,55,300,300,245,245,4.46,1
+"USA, UK, China",90,90,371,371,281,281,3.12,1
+"USA, UK, Czech Republic, Canada, Germany",60,60,173,173,113,113,1.88,1
+"USA, UK, Denmark, France, Japan, New Zealand, Germany, Australia",70,70,20,20,-50,-50,-0.72,1
+"USA, UK, France, Canada, Germany",25,25,109,109,84,84,3.35,1
+"USA, Sweden, Norway",90,90,233,233,143,143,1.58,1
+"USA, Sweden, Hungary",10,10,41,41,31,31,3.11,1
+"Australia, USA, South Africa",150,150,375,375,225,225,1.5,1
+"USA, Spain, UK, France",40,40,24,24,-16,-16,-0.4,1
+"Bahamas, USA",5,5,1,1,-4,-4,-0.86,1
+"USA, Russia, Hungary",92,92,305,305,213,213,2.31,1
+"USA, Saudi Arabia",25,25,4,4,-21,-21,-0.82,1
+"USA, Serbia, Canada",14,14,91,91,77,77,5.7,1
+"Austria, UK, USA",30,30,54,54,24,24,0.8,1
+"USA, South Korea",80,80,529,529,449,449,5.61,1
+"USA, South Korea, Australia",74,74,325,325,251,251,3.39,1
+"Austria, France, Germany",9,9,20,20,11,11,1.23,1
+"USA, Spain, Bulgaria",50,50,87,87,37,37,0.74,1
+"USA, Spain, Chile, Peru",5,5,13,13,8,8,1.53,1
+"USA, Spain, France, UK",190,190,209,209,19,19,0.1,1
+"USA, Spain, Germany",28,28,0,0,-28,-28,-0.99,1
+"USA, Spain, Hungary",185,185,204,204,19,19,0.1,1
+"USA, Spain, Hungary, Serbia",26,26,30,30,4,4,0.14,1
+"USA, Spain, Mexico",20,20,69,69,49,49,2.44,1
+"USA, UK, France, Germany",6,6,3,3,-3,-3,-0.42,1
+"USA, UK, France, Hungary, Germany",65,65,236,236,171,171,2.63,1
+"USA, Germany, Mexico",95,95,250,250,155,155,1.63,1
+"Argentina, Spain, Brazil",1,1,1,1,0,0,0.2,1
+"USA, UK, South Africa, Germany, France",25,25,0,0,-25,-25,-0.98,1
+"USA, UK, Spain, South Korea",20,20,35,35,15,15,0.79,1
+"USA, UK, Taiwan, Japan, Mexico, Italy",46,46,24,24,-22,-22,-0.48,1
+"Argentina, Spain, Germany",11,11,1,1,-10,-10,-0.91,1
+"USA, United Arab Emirates, Czech Republic, Russia, India, Canada",145,145,695,695,550,550,3.79,1
+"USA, United Arab Emirates, Poland, India",30,30,20,20,-10,-10,-0.32,1
+"USA, United Arab Emirates, UK",15,15,58,58,43,43,2.85,1
+"USA, West Germany, UK",40,40,12,12,-28,-28,-0.69,1
+"Aruba, Hong Kong, USA",35,35,10,10,-25,-25,-0.71,1
+"USA, Yugoslavia, Hong Kong",19,19,28,28,9,9,0.5,1
+"Argentina, Italy, Netherlands, Spain",1,1,1,1,0,0,-0.1,1
+"United Arab Emirates, USA, Switzerland",30,30,3,3,-27,-27,-0.9,1
+"Uruguay, Argentina, Germany",1,1,0,0,-1,-1,-0.91,1
+"Uruguay, Argentina, Germany, Spain",0,0,1,1,0,0,0.27,1
+"Venezuela, Spain",50,50,5,5,-45,-45,-0.9,1
+West Germany,27,27,20,20,-7,-7,-0.25,1
+"USA, UK, New Zealand",65,65,94,94,29,29,0.44,1
+"USA, UK, Mexico, Switzerland",70,70,130,130,60,60,0.86,1
+"USA, UK, Malta, Morocco",103,103,461,461,358,358,3.47,1
+"USA, UK, Malta",190,190,540,540,350,350,1.84,1
+"USA, UK, Germany, Hungary",22,22,96,96,74,74,3.35,1
+"USA, UK, Germany, Japan, France",75,75,31,31,-44,-44,-0.59,1
+"USA, UK, Germany, Netherlands, France, Italy, Morocco, Thailand",155,155,167,167,12,12,0.08,1
+"USA, UK, Germany, Romania",15,15,6,6,-9,-9,-0.58,1
+"USA, UK, Hungary",100,100,249,249,149,149,1.49,1
+"USA, UK, Hungary, Canada, Spain",150,150,261,261,111,111,0.74,1
+"USA, UK, Hungary, Israel",20,20,46,46,26,26,1.28,1
+"USA, UK, India",23,23,19,19,-4,-4,-0.15,1
+"Argentina, USA",0,0,0,0,0,0,0.82,1
+"USA, UK, Isle Of Man",10,10,1,1,-9,-9,-0.95,1
+"Argentina, Spain, Norway, France",2,2,3,3,1,1,0.51,1
+"USA, UK, Italy, Japan",7,7,14,14,7,7,0.99,1
+"Argentina, Spain, Italy",3,3,3,3,0,0,0.16,1
+"USA, UK, Japan, Germany",115,115,275,275,160,160,1.39,1
+"USA, UK, Japan, Hungary",175,175,152,152,-23,-23,-0.13,1
+"USA, Romania, Germany",35,35,77,77,42,42,1.21,1
+"USA, Romania, France, Italy, Germany",5,5,3,3,-2,-2,-0.48,1
+"USA, Poland, Slovenia, Czech Republic, UK",225,225,420,420,195,195,0.87,1
+"USA, Hungary, UK",15,15,13,13,-2,-2,-0.11,1
+"USA, Hong Kong, China, Canada, Denmark, Germany, UK",135,135,246,246,111,111,0.82,1
+"USA, Hong Kong, Japan, Mexico, Canada, New Zealand",100,100,142,142,42,42,0.42,1
+"USA, Hong Kong, Mexico, Taiwan",10,10,17,17,7,7,0.7,1
+"USA, Hong Kong, Taiwan",135,135,533,533,398,398,2.95,1
+Brazil,2,2,1,1,-1,-1,-0.7,1
+Bhutan,2,2,0,0,-2,-2,-0.86,1
+"USA, Hungary, Italy",37,37,96,96,59,59,1.6,1
+"USA, Iceland",5,5,0,0,-5,-5,-0.98,1
+Bangladesh,0,0,0,0,0,0,-0.84,1
+"Belgium, USA, UK, Germany, Italy",28,28,3,3,-25,-25,-0.91,1
+"USA, India, Belgium",28,28,9,9,-19,-19,-0.69,1
+"USA, India, Canada, UK, Australia, Germany",90,90,962,962,872,872,9.69,1
+"USA, India, France",35,35,15,15,-20,-20,-0.56,1
+"USA, India, Hong Kong, China, UK",110,110,170,170,60,60,0.54,1
+"USA, India, Ireland",7,7,31,31,24,24,3.39,1
+"USA, India, Malaysia, Taiwan, Canada, UK",63,63,184,184,121,121,1.92,1
+"USA, Hong Kong, Canada",60,60,197,197,137,137,2.29,1
+"USA, Hong Kong, Bulgaria, Netherlands",30,30,177,177,147,147,4.89,1
+"Brazil, France",3,3,6,6,3,3,1.06,1
+"USA, Greece, Brazil",2,2,2,2,0,0,0.0,1
+"Brazil, USA, Argentina",4,4,14,14,10,10,2.52,1
+"UK, Netherlands, Luxembourg, USA, France, Germany",25,25,27,27,2,2,0.06,1
+"USA, Germany, Poland",7,7,10,10,3,3,0.39,1
+"USA, Germany, Romania",30,30,33,33,3,3,0.11,1
+"USA, Germany, Saudi Arabia",10,10,1,1,-9,-9,-0.94,1
+"USA, Germany, South Korea, India, Canada",76,76,35,35,-41,-41,-0.54,1
+"USA, Germany, Taiwan, France, UK, Canada, Philippines, South Korea",50,50,70,70,20,20,0.4,1
+"Brazil, Germany",4,4,1,1,-3,-3,-0.81,1
+"USA, Germany, UK, France",50,50,60,60,10,10,0.2,1
+"USA, Germany, UK, Italy",200,200,371,371,171,171,0.86,1
+"USA, Germany, UK, Japan",55,55,33,33,-22,-22,-0.39,1
+"USA, Germany, UK, Netherlands",9,9,47,47,38,38,4.2,1
+"USA, Germany, UK, Spain",38,38,39,39,1,1,0.03,1
+"USA, Germany, United Arab Emirates",70,70,87,87,17,17,0.24,1
+"Brazil, France, Germany",3,3,31,31,27,27,8.3,1
+"USA, India, United Arab Emirates",22,22,89,89,67,67,3.04,1
+"USA, India, United Arab Emirates, UK, France, Canada, Germany",25,25,217,217,192,192,7.67,1
+"USA, Indonesia",16,16,2,2,-14,-14,-0.87,1
+"USA, Malta, UK",175,175,497,497,322,322,1.84,1
+"USA, Mexico, Australia",49,49,117,117,68,68,1.38,1
+"USA, Mexico, Canada, Germany",40,40,39,39,-1,-1,-0.03,1
+"USA, Mexico, Germany",48,48,208,208,160,160,3.32,1
+"USA, Mexico, Spain",2,2,10,10,9,9,5.7,1
+"USA, Mexico, UK",45,45,31,31,-14,-14,-0.3,1
+"USA, Monaco",10,10,0,0,-10,-10,-1.0,1
+"USA, Monaco, Morocco",28,28,6,6,-22,-22,-0.8,1
+"Belgium, Germany, Luxembourg, UK, France",4,4,11,11,6,6,1.36,1
+"Belgium, Germany, Canada, France, USA, UK",47,47,4,4,-43,-43,-0.92,1
+"Belgium, France",13,13,40,40,27,27,2.04,1
+"USA, New Zealand, Germany",20,20,67,67,47,47,2.36,1
+"USA, New Zealand, Japan",140,140,455,455,315,315,2.25,1
+"USA, New Zealand, UK",135,135,374,374,239,239,1.77,1
+"USA, Norway",68,68,55,55,-13,-13,-0.19,1
+"USA, Philippines",1,1,10,10,9,9,9.5,1
+"Belgium, India, Australia",50,50,0,0,-50,-50,-1.0,1
+"USA, Malta, France, UK",125,125,758,758,633,633,5.07,1
+"USA, Iran",0,0,0,0,0,0,-0.94,1
+"Belgium, Luxembourg, France",20,20,7,7,-13,-13,-0.65,1
+"Belgium, UK, USA, China",15,15,0,0,-15,-15,-0.98,1
+"USA, Ireland, UK",31,31,27,27,-4,-4,-0.12,1
+"Belgium, UK, France",34,34,64,64,30,30,0.89,1
+"USA, Israel, Germany",30,30,0,0,-30,-30,-0.99,1
+"Belgium, Spain, France",7,7,0,0,-7,-7,-0.98,1
+"USA, Italy, France",70,70,255,255,185,185,2.64,1
+"USA, Italy, Luxembourg, UK",30,30,22,22,-8,-8,-0.28,1
+"USA, Italy, UK",50,50,57,57,7,7,0.14,1
+"USA, Italy, UK, Liechtenstein",11,11,112,112,101,101,9.17,1
+"Belgium, Netherlands",19,19,6,6,-13,-13,-0.7,1
+"USA, Japan, Australia, New Zealand",15,15,66,66,51,51,3.43,1
+"USA, Japan, Colombia",50,50,135,135,85,85,1.7,1
+"USA, Japan, Germany, UK",20,20,46,46,26,26,1.29,1
+"USA, Japan, Spain, UK",160,160,789,789,629,629,3.93,1
+"USA, Japan, UK, Canada",150,150,432,432,282,282,1.88,1
+"UK, New Zealand",2,2,1,1,-1,-1,-0.35,1
+"UK, Mexico, Guatemala",0,0,4,4,4,4,7.49,1
+"UK, Netherlands, France, USA",100,100,527,527,427,427,4.27,1
+"Italy, Canada",30,30,8,8,-22,-22,-0.72,1
+"France, Germany, UK, Belgium, Romania, Norway, Japan, USA",22,22,18,18,-4,-4,-0.2,1
+"France, Germany, UK",45,45,60,60,15,15,0.34,1
+"Israel, Belgium, France, Spain",1,1,0,0,-1,-1,-0.65,1
+"Israel, France",2,2,1,1,-1,-1,-0.48,1
+"France, Germany, Spain, Belgium, USA",18,18,2,2,-16,-16,-0.9,1
+"France, Germany, Poland, Spain, USA",25,25,28,28,3,3,0.1,1
+"Italy, Algeria",1,1,1,1,0,0,0.21,1
+"France, Germany, Italy, Canada, Japan",16,16,1,1,-15,-15,-0.95,1
+"Japan, Canada, USA",170,170,386,386,216,216,1.27,1
+"Italy, France, Belgium",3,3,22,22,19,19,6.3,1
+"Italy, France, UK",10,10,5,5,-5,-5,-0.52,1
+"Italy, France, West Germany",1,1,0,0,0,0,-0.47,1
+"France, Germany, Czech Republic, Belgium",6,6,3,3,-3,-3,-0.53,1
+"Italy, UK",12,12,14,14,2,2,0.2,1
+"Italy, UK, Germany",5,5,1,1,-4,-4,-0.9,1
+"France, Germany, Belgium",8,8,2,2,-6,-6,-0.79,1
+"France, Germany, USA, Taiwan",40,40,459,459,419,419,10.47,1
+"France, Germany, USA, UK",40,40,37,37,-3,-3,-0.07,1
+"Ireland, UK, France, Germany, USA",68,68,97,97,29,29,0.43,1
+"France, Hungary, USA",45,45,5,5,-40,-40,-0.89,1
+"Indonesia, France, USA",1,1,9,9,8,8,7.32,1
+"France, Italy, Luxembourg, USA",7,7,0,0,-7,-7,-0.93,1
+"France, Italy, Germany, USA",98,98,10,10,-88,-88,-0.9,1
+"Iran, France",0,0,20,20,19,19,38.8,1
+"Iran, Germany",2,2,0,0,-1,-1,-1.0,1
+"Iran, Italy, Switzerland",0,0,1,1,1,1,79.0,1
+"France, Italy, Belgium, Iran",11,11,11,11,0,0,-0.03,1
+"Ireland, Australia",10,10,0,0,-10,-10,-0.99,1
+"Ireland, Canada",11,11,8,8,-3,-3,-0.29,1
+"Ireland, Canada, UK, USA",13,13,35,35,22,22,1.72,1
+"Ireland, France",25,25,5,5,-20,-20,-0.8,1
+"Ireland, France, Netherlands",3,3,21,21,18,18,6.13,1
+"Ireland, Mexico, Germany, USA",12,12,17,17,5,5,0.39,1
+"Ireland, Sweden",4,4,0,0,-4,-4,-0.97,1
+"Ireland, Sweden, USA",8,8,0,0,-8,-8,-0.97,1
+"France, Georgia",25,25,0,0,-25,-25,-0.98,1
+"Japan, France",12,12,4,4,-7,-7,-0.64,1
+Palestine,2,2,1,1,-1,-1,-0.71,1
+"New Zealand, South Korea",42,42,11,11,-31,-31,-0.74,1
+"Netherlands, Germany, UK, Belgium",21,21,27,27,6,6,0.27,1
+"Netherlands, UK",3,3,2,2,-1,-1,-0.21,1
+"Netherlands, UK, Finland, USA",27,27,21,21,-6,-6,-0.22,1
+"France, China, Belgium, Germany, United Arab Emirates, USA",177,177,226,226,49,49,0.27,1
+"New Zealand, Australia, France",7,7,40,40,33,33,4.74,1
+"New Zealand, Germany",4,4,41,41,38,38,10.73,1
+"New Zealand, Japan, USA",25,25,18,18,-7,-7,-0.27,1
+"New Zealand, UK, Australia",40,40,103,103,63,63,1.58,1
+"Japan, Hong Kong, USA",65,65,40,40,-25,-25,-0.39,1
+"France, Canada, Czech Republic",21,21,11,11,-11,-11,-0.49,1
+"New Zealand, USA, Germany",207,207,551,551,344,344,1.66,1
+"France, Canada, Belgium",12,12,0,0,-12,-12,-0.96,1
+"France, Belgium, USA",15,15,133,133,118,118,7.9,1
+"Norway, France, Denmark, USA",11,11,1,1,-10,-10,-0.89,1
+"France, Belgium, Tunisia, Morocco",3,3,0,0,-3,-3,-0.97,1
+"Norway, USA, Germany, France, Italy",1,1,3,3,2,2,1.71,1
+"Morocco, Sweden, Denmark, Germany, France",4,4,4,4,0,0,-0.06,1
+"Mexico, USA, Spain",11,11,0,0,-11,-11,-0.98,1
+"France, China, Belgium, Monaco",25,25,73,73,48,48,1.91,1
+"Mexico, Spain, Guatemala",2,2,1,1,-1,-1,-0.59,1
+"Japan, Netherlands, Hong Kong",2,2,1,1,-2,-2,-0.62,1
+"Japan, UK",6,6,18,18,12,12,1.93,1
+"France, Czech Republic",85,85,67,67,-18,-18,-0.21,1
+"Kazakhstan, Russia, France, Germany",2,2,0,0,-1,-1,-0.96,1
+"Kenya, India, USA, Canada, South Africa",20,20,3,3,-17,-17,-0.83,1
+"Lebanon, France, USA, Cyprus, Qatar",4,4,64,64,60,60,15.1,1
+"Lithuania, USA",5,5,2,2,-3,-3,-0.69,1
+"Malaysia, USA",16,16,1,1,-15,-15,-0.95,1
+"Malta, Morocco, USA",50,50,69,69,19,19,0.39,1
+"Malta, USA",55,55,353,353,298,298,5.41,1
+"France, Cyprus, Belgium, Lebanon, USA",3,3,4,4,1,1,0.2,1
+"France, China, Germany",20,20,1,1,-19,-19,-0.93,1
+"Mexico, Netherlands, Germany, France",1,1,0,0,-1,-1,-0.63,1
+"France, China, Canada",30,30,58,58,28,28,0.93,1
+"Mexico, Spain, Argentina, France",2,2,27,27,25,25,14.0,1
+"India, USA, United Arab Emirates",12,12,42,42,30,30,2.53,1
+"India, USA",24,24,36,36,12,12,0.5,1
+"India, UK, USA",3,3,1,1,-1,-1,-0.49,1
+"Germany, France, Australia",23,23,1,1,-22,-22,-0.96,1
+"Germany, Belgium, USA",10,10,0,0,-10,-10,-0.97,1
+"Germany, Belgium, USA, France",8,8,3,3,-5,-5,-0.64,1
+"Germany, Canada, Australia, USA",49,49,71,71,22,22,0.45,1
+"Germany, Canada, France, Sweden, Norway",12,12,1,1,-11,-11,-0.95,1
+"Germany, Canada, New Zealand, USA",14,14,1,1,-13,-13,-0.96,1
+"France, Mexico, USA",42,42,35,35,-7,-7,-0.16,1
+"Germany, Canada, USA, France, UK",65,65,240,240,175,175,2.69,1
+"Germany, France, Luxembourg, UK",14,14,4,4,-10,-10,-0.74,1
+"India, Germany",17,17,7,7,-10,-10,-0.59,1
+"Germany, France, Spain, USA",15,15,1,1,-14,-14,-0.94,1
+"Germany, France, Spain, USA, Czech Republic, Belgium, Netherlands, Luxembourg, Latvia, UK",60,60,135,135,75,75,1.25,1
+"Germany, France, UK, Canada, USA",45,45,129,129,84,84,1.87,1
+"Germany, France, USA",30,30,23,23,-7,-7,-0.23,1
+"Germany, France, USA, Canada, UK",60,60,300,300,240,240,4.0,1
+"Germany, India, USA",40,40,165,165,125,125,3.14,1
+"Germany, Israel, UK",1,1,1,1,0,0,0.29,1
+"Germany, Austria, USA",15,15,0,0,-15,-15,-0.99,1
+"Germany, Austria, France, Italy, Canada",18,18,19,19,1,1,0.07,1
+"Germany, Australia, USA",100,100,100,100,0,0,0.0,1
+"France, Spain",47,47,7,7,-40,-40,-0.85,1
+"France, UK, Germany, Austria",20,20,0,0,-20,-20,-0.98,1
+"France, UK, Germany, USA, Japan",4,4,2,2,-1,-1,-0.42,1
+"France, UK, Ireland, Canada, USA",30,30,6,6,-24,-24,-0.81,1
+"France, UK, Italy, Greece, Israel, USA",24,24,3,3,-21,-21,-0.89,1
+"France, UK, South Africa, USA",14,14,6,6,-8,-8,-0.59,1
+"France, USA, Germany",32,32,85,85,53,53,1.66,1
+"France, USA, Iran",1,1,1,1,0,0,-0.44,1
+"France, Spain, Romania, Belgium, USA",38,38,13,13,-25,-25,-0.65,1
+"France, USA, Mexico, Belgium",6,6,1,1,-5,-5,-0.78,1
+"France, USA, Spain",48,48,326,326,278,278,5.8,1
+"France, Spain, Belgium, Panama",17,17,5,5,-12,-12,-0.71,1
+"France, USA, UK, Mexico, Canada, Brazil, Germany, Netherlands, Argentina",25,25,9,9,-16,-16,-0.65,1
+"France, USA, Ukraine",30,30,109,109,79,79,2.63,1
+"France, Ukraine, Belgium",3,3,1,1,-2,-2,-0.63,1
+"Georgia, USA",12,12,0,0,-12,-12,-0.97,1
+"Germany, Japan, USA",7,7,8,8,1,1,0.2,1
+"Germany, Luxembourg, UK, USA",40,40,32,32,-8,-8,-0.2,1
+"Germany, Netherlands, USA",35,35,28,28,-7,-7,-0.2,1
+"Hong Kong, China, France, Italy, Germany",12,12,19,19,7,7,0.62,1
+"Hong Kong, China, Singapore",20,20,4,4,-16,-16,-0.81,1
+"Hong Kong, France, China",30,30,6,6,-24,-24,-0.8,1
+"Hong Kong, Iceland, USA",35,35,60,60,25,25,0.71,1
+"Hong Kong, Japan, South Korea",4,4,0,0,-4,-4,-0.92,1
+"France, Kazakhstan",25,25,3,3,-22,-22,-0.88,1
+Hungary,0,0,0,0,0,0,0.33,1
+"Hungary, Canada, UK",11,11,1,1,-10,-10,-0.94,1
+"Hungary, UK",8,8,0,0,-8,-8,-1.0,1
+"Hungary, USA",20,20,40,40,20,20,0.98,1
+Iceland,2,2,4,4,2,2,1.07,1
+"Iceland, Denmark, USA, France, Germany",4,4,0,0,-3,-3,-0.91,1
+"Iceland, Germany, Norway",10,10,0,0,-10,-10,-0.98,1
+"Iceland, Philippines, France, Thailand",0,0,0,0,0,0,-0.98,1
+"Iceland, Switzerland, USA",8,8,0,0,-7,-7,-0.95,1
+"India, France, Germany, USA, Canada",1,1,12,12,11,11,10.62,1
+"Hong Kong, China, Japan",8,8,4,4,-4,-4,-0.5,1
+"Hong Kong, China, British Virgin Islands",40,40,43,43,3,3,0.07,1
+"Germany, Sweden, USA",43,43,35,35,-8,-8,-0.18,1
+"France, Lebanon, Egypt, Italy",7,7,8,8,1,1,0.12,1
+"Germany, Sweden, USA, Hungary",30,30,100,100,70,70,2.34,1
+"Germany, UK",5,5,0,0,-5,-5,-1.0,1
+"France, Malta, USA",10,10,3,3,-7,-7,-0.67,1
+"Germany, UK, USA, Canada",27,27,56,56,29,29,1.09,1
+"France, Luxembourg, UK",18,18,2,2,-16,-16,-0.9,1
+"Germany, USA, Canada",20,20,1,1,-19,-19,-0.94,1
+"Germany, USA, France",1,1,1,1,0,0,-0.11,1
+"Germany, USA, Hong Kong, Singapore, China",102,102,130,130,28,28,0.28,1
+"Germany, USA, Israel",10,10,0,0,-10,-10,-0.99,1
+"Germany, USA, Japan, France",115,115,143,143,28,28,0.24,1
+"Germany, USA, Mexico",12,12,1,1,-11,-11,-0.88,1
+"Germany, USA, UK, Canada",28,28,7,7,-21,-21,-0.73,1
+"Greece, France, Cyprus",5,5,0,0,-5,-5,-0.97,1
+"France, Liechtenstein, Switzerland, Germany, USA",13,13,17,17,4,4,0.34,1
+"Hong Kong, Canada, USA",20,20,13,13,-7,-7,-0.33,1
+"Pakistan, USA",0,0,0,0,0,0,-0.96,1
+"Palestine, France, Germany, Netherlands, Israel",2,2,4,4,2,2,0.79,1
+"UK, Mexico, USA",32,32,156,156,124,124,3.88,1
+"UK, France, Spain, USA",100,100,155,155,55,55,0.55,1
+"UK, France, Ireland, USA",10,10,0,0,-9,-9,-0.96,1
+"UK, France, Italy",15,15,15,15,0,0,0.01,1
+"UK, France, Italy, Germany, USA",11,11,4,4,-7,-7,-0.61,1
+"UK, France, Italy, Japan, USA",31,31,9,9,-22,-22,-0.69,1
+"UK, France, Poland, Germany",35,35,120,120,85,85,2.43,1
+"UK, France, Slovakia, Tunisia, Italy, Bulgaria",35,35,25,25,-10,-10,-0.28,1
+"UK, France, South Africa",7,7,3,3,-4,-4,-0.59,1
+"UK, France, Sweden, Belgium",15,15,22,22,7,7,0.45,1
+"Czech Republic, UK, Germany, Denmark, Italy, France, USA",5,5,2,2,-3,-3,-0.52,1
+"Czech Republic, UK, USA",20,20,26,26,6,6,0.31,1
+"UK, France, USA, Canada",50,50,223,223,173,173,3.46,1
+"UK, France, USA, China",25,25,159,159,134,134,5.36,1
+"UK, France, USA, Luxembourg, Germany",20,20,15,15,-5,-5,-0.26,1
+"Czech Republic, UK, Germany, USA",80,80,12,12,-68,-68,-0.85,1
+"UK, Germany, Austria",12,12,0,0,-12,-12,-0.97,1
+"UK, Germany, Canada, Australia, USA",12,12,1,1,-11,-11,-0.9,1
+"Czech Republic, UK, USA, France, Botswana",14,14,14,14,0,0,-0.01,1
+"UK, France, Germany, Mexico, USA",30,30,9,9,-21,-21,-0.69,1
+"UK, France, Germany, Japan, USA",65,65,52,52,-13,-13,-0.2,1
+"UK, France, Germany, Ireland, USA",40,40,262,262,222,222,5.54,1
+"Denmark, France, USA, Sweden, Belgium",5,5,11,11,6,6,1.22,1
+"UK, Cayman Islands",0,0,2,2,2,2,8.83,1
+"UK, China, Canada, Indonesia, Singapore, USA",14,14,1,1,-13,-13,-0.93,1
+"UK, China, Japan, USA",150,150,291,291,141,141,0.94,1
+"UK, China, Puerto Rico, USA",30,30,9,9,-21,-21,-0.69,1
+"Denmark, France, Italy, Belgium, Netherlands",8,8,0,0,-7,-7,-0.96,1
+"UK, Czech Republic, France, Italy, USA",50,50,82,82,32,32,0.64,1
+"UK, Czech Republic, Germany, USA",60,60,56,56,-4,-4,-0.07,1
+"UK, Czech Republic, USA, Germany, Bahamas",150,150,609,609,459,459,3.06,1
+"UK, Denmark",4,4,0,0,-4,-4,-1.0,1
+"UK, France, Argentina",30,30,16,16,-14,-14,-0.48,1
+"UK, France, Belgium",8,8,0,0,-8,-8,-0.96,1
+"UK, France, Belgium, USA",10,10,0,0,-10,-10,-0.97,1
+"Czech Republic, UK, USA, Russia",50,50,13,13,-37,-37,-0.74,1
+"Czech Republic, UK, USA, Mexico",12,12,2,2,-10,-10,-0.83,1
+"UK, Germany, Canada, Japan, USA",44,44,3,3,-41,-41,-0.93,1
+"Czech Republic, UK, France",45,45,20,20,-25,-25,-0.56,1
+"Palestine, Jordan, Greece, United Arab Emirates",1,1,0,0,-1,-1,-0.93,1
+"UK, Italy",10,10,1,1,-9,-9,-0.9,1
+"China, USA, Colombia",50,50,66,66,16,16,0.33,1
+"China, USA, Canada",19,19,27,27,7,7,0.37,1
+"UK, Ireland, Luxembourg",15,15,85,85,70,70,4.69,1
+"UK, Ireland, South Africa",12,12,1,1,-11,-11,-0.88,1
+"UK, Ireland, USA",25,25,11,11,-14,-14,-0.55,1
+"UK, Isle Of Man, USA",25,25,2,2,-23,-23,-0.91,1
+"UK, Israel, France",8,8,0,0,-8,-8,-0.98,1
+"UK, Italy, Belgium, France, Palestine, Israel",6,6,1,1,-5,-5,-0.84,1
+"Czech Republic, Germany",3,3,0,0,-3,-3,-0.84,1
+"UK, Italy, Morocco",20,20,13,13,-7,-7,-0.33,1
+"UK, Italy, Romania, USA",79,79,173,173,94,94,1.19,1
+"UK, Italy, USA",11,11,16,16,5,5,0.46,1
+"UK, Japan",40,40,2,2,-38,-38,-0.96,1
+"China, South Korea, Singapore",31,31,2,2,-29,-29,-0.93,1
+"China, Japan, France",15,15,1,1,-14,-14,-0.92,1
+"France, UK, Australia, Germany, Belgium, USA, Japan, Netherlands",14,14,1,1,-13,-13,-0.9,1
+"UK, India, Trinidad and Tobago, USA",2,2,0,0,-2,-2,-0.84,1
+"China, USA, Japan",250,250,1236,1236,986,986,3.94,1
+"Colombia, Ecuador, USA",3,3,13,13,10,10,3.2,1
+"UK, Germany, USA, Vietnam, Australia, France, Canada",30,30,28,28,-2,-2,-0.08,1
+"UK, Germany, France, USA, Japan",30,30,16,16,-14,-14,-0.46,1
+"UK, Germany, Greece, France",7,7,8,8,1,1,0.09,1
+"UK, Germany, Hungary, Cayman Islands",15,15,2,2,-13,-13,-0.9,1
+"UK, Germany, Italy, Republic of Macedonia",11,11,0,0,-11,-11,-0.99,1
+"Czech Republic, France, USA",30,30,5,5,-25,-25,-0.83,1
+"UK, Germany, Luxembourg",40,40,11,11,-29,-29,-0.73,1
+"UK, Germany, Luxembourg, USA, Canada",40,40,19,19,-21,-21,-0.53,1
+"UK, Germany, Romania, France, Italy",12,12,2,2,-10,-10,-0.87,1
+"UK, Germany, Russia",18,18,20,20,2,2,0.14,1
+"UK, Germany, Spain, Lithuania",15,15,6,6,-9,-9,-0.6,1
+"UK, Germany, Spain, Morocco, USA",130,130,212,212,82,82,0.63,1
+"UK, Germany, Spain, USA",70,70,39,39,-31,-31,-0.45,1
+"UK, Germany, Sweden, Belgium, USA",5,5,8,8,3,3,0.67,1
+"Colombia, Venezuela, Argentina",1,1,3,3,2,2,1.3,1
+"UK, Germany, USA, China, Kenya",25,25,82,82,57,57,2.3,1
+"UK, Canada, Sweden",17,17,128,128,111,111,6.51,1
+"UK, Canada, Romania, USA",14,14,30,30,16,16,1.12,1
+"UK, Canada, Ireland",11,11,62,62,51,51,4.64,1
+"France, Angola, USA",0,0,0,0,0,0,-0.8,1
+"France, Australia, USA",12,12,30,30,17,17,1.39,1
+"South Africa, Botswana",5,5,30,30,25,25,5.01,1
+"South Africa, Canada",15,15,0,0,-15,-15,-0.99,1
+"South Africa, Canada, USA",25,25,67,67,42,42,1.68,1
+"South Africa, Japan, USA",85,85,208,208,123,123,1.45,1
+"France, Australia, Germany, UK, USA, Mexico, Canada",45,45,148,148,103,103,2.28,1
+"South Africa, USA, New Zealand, Canada",30,30,211,211,181,181,6.03,1
+"South Korea, China, USA",2,2,0,0,-2,-2,-0.99,1
+"Denmark, Germany, France, Sweden, Italy, Poland",11,11,7,7,-4,-4,-0.37,1
+"South Korea, Czech Republic",39,39,87,87,48,48,1.21,1
+"Denmark, UK, Sweden, France",4,4,2,2,-2,-2,-0.61,1
+"South Korea, USA, Hong Kong",8,8,16,16,8,8,0.93,1
+"Denmark, Sweden, Netherlands, France, Germany, UK, Italy, USA",14,14,1,1,-14,-14,-0.95,1
+"Spain, Bulgaria",7,7,6,6,-1,-1,-0.11,1
+"Spain, Canada",5,5,1,1,-4,-4,-0.88,1
+"Spain, Canada, France",8,8,0,0,-8,-8,-0.97,1
+"Serbia, USA, Germany",0,0,0,0,0,0,-0.83,1
+"Russia, Ukraine, Bulgaria, France, Spain",12,12,6,6,-5,-5,-0.48,1
+"Russia, USA, China",2,2,17,17,15,15,7.41,1
+"France, Austria, Germany",14,14,3,3,-11,-11,-0.81,1
+"Panama, USA",20,20,5,5,-15,-15,-0.75,1
+"Peru, USA",1,1,0,0,-1,-1,-0.99,1
+Philippines,0,0,1,1,1,1,2.14,1
+"Philippines, USA",0,0,0,0,0,0,9.01,1
+"Poland, USA, UK",2,2,1,1,-1,-1,-0.41,1
+"France, Belgium, Ireland, Netherlands, USA, Denmark, Brazil, Germany, Austria, Hungary",8,8,1,1,-7,-7,-0.91,1
+"Qatar, France, Lebanon, Canada, USA",12,12,1,1,-11,-11,-0.89,1
+Romania,0,0,0,0,0,0,-0.57,1
+"Romania, France, Belgium",2,2,2,2,0,0,0.01,1
+"Romania, USA, UK",12,12,25,25,13,13,1.07,1
+"France, Belgium, Canada, UK, Latvia, USA",10,10,15,15,5,5,0.56,1
+"Russia, France",2,2,0,0,-2,-2,-0.94,1
+"Russia, France, Germany",5,5,1,1,-4,-4,-0.78,1
+"Russia, Germany, Kazakhstan, China",18,18,27,27,9,9,0.47,1
+"Russia, Ireland",4,4,0,0,-4,-4,-0.99,1
+"Spain, France, Italy",4,4,10,10,6,6,1.46,1
+"Spain, France, UK, USA",5,5,8,8,3,3,0.64,1
+"Spain, France, USA",40,40,9,9,-31,-31,-0.78,1
+"Denmark, Norway, Australia, USA",99,99,191,191,92,92,0.93,1
+"Taiwan, China, Hong Kong, France",15,15,12,12,-3,-3,-0.2,1
+"Taiwan, Hong Kong, USA, China",17,17,214,214,197,197,11.56,1
+"Thailand, Canada, USA",9,9,1,1,-8,-8,-0.93,1
+"Thailand, China, USA",10,10,0,0,-10,-10,-0.97,1
+"Thailand, USA",30,30,1,1,-29,-29,-0.98,1
+"Denmark, Netherlands, Sweden, Germany, UK, France, Finland, Norway, Italy",10,10,17,17,7,7,0.67,1
+"Denmark, Germany, Sweden",35,35,2,2,-33,-33,-0.93,1
+Argentina,2,2,12,12,11,11,7.28,1
+"UK, Australia, France",8,8,14,14,6,6,0.69,1
+"UK, Australia, Germany",20,20,5,5,-15,-15,-0.73,1
+"Denmark, Germany, Netherlands, Italy, USA, UK, France, Sweden, Finland, Iceland, Argentina, Norway, Taiwan, Belgium",13,13,40,40,27,27,2.13,1
+"UK, Australia, USA, New Zealand",100,100,122,122,22,22,0.22,1
+"UK, Azerbaijan",20,20,0,0,-20,-20,-1.0,1
+"UK, Belgium, USA",6,6,2,2,-4,-4,-0.75,1
+"UK, Bulgaria, USA",60,60,206,206,146,146,2.43,1
+Taiwan,23,23,5,5,-18,-18,-0.8,1
+"Switzerland, UK, France, USA",5,5,5,5,0,0,-0.09,1
+"Spain, Ireland",5,5,6,6,1,1,0.28,1
+"Switzerland, UK, Australia",18,18,22,22,4,4,0.24,1
+"Spain, Malta, Bulgaria",70,70,39,39,-31,-31,-0.44,1
+"Spain, UK, USA",70,70,106,106,36,36,0.51,1
+"Spain, UK, USA, France",3,3,19,19,16,16,5.38,1
+"Denmark, Sweden, France, Germany",7,7,16,16,9,9,1.15,1
+"Spain, USA, Argentina",36,36,4,4,-32,-32,-0.88,1
+"Spain, USA, France",17,17,151,151,134,134,7.89,1
+"Spain, USA, France, Italy",17,17,210,210,193,193,11.35,1
+"Spain, USA, UK, France",7,7,1,1,-6,-6,-0.82,1
+Sweden,4,4,11,11,7,7,1.81,1
+"Sweden, Denmark, Germany",10,10,2,2,-8,-8,-0.82,1
+"Sweden, Denmark, Germany, Norway",13,13,104,104,91,91,7.03,1
+"Sweden, France, West Germany",6,6,7,7,1,1,0.13,1
+Switzerland,2,2,6,6,4,4,1.43,1
+"Switzerland, France, Italy, Belgium",30,30,27,27,-3,-3,-0.11,1
+"Switzerland, France, USA",0,0,0,0,0,0,-0.82,1
+"Afghanistan, Ireland, Japan, Iran, Netherlands",0,0,4,4,4,4,84.01,1
