@@ -16,13 +16,7 @@ The program consists of a search engine in which you have to input two parameter
 
 # 3. Tools:
 
-Python
-Pandas
-Numpy
-Regex
-Requests
-Argparse
-APIs
+Python, Pandas, Numpy, Regex, Requests, Argparse, APIs
 
 ![alt text](https://s1.eestatic.com/2020/03/17/omicrono/Omicrono_475463845_148511978_1706x960.jpg)
 
